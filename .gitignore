@@ -1,0 +1,4 @@
+#pyre type checker
+.pyre/
+
+env/
