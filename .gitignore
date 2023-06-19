@@ -3,3 +3,9 @@
 
 env/
 kagglecatsanddogs_5340.zip
+*.jpg
+bad_data/
+logs/
+*.docx
+*.txt
+data/
