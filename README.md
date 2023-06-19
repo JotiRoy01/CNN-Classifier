@@ -3,4 +3,4 @@
 
 ## create and activate env-
 '''bash
-conda create prefix ./env python=3.10 && conda activate ./env
+conda create --prefix ./env python=3.10 && conda activate ./env
